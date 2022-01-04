@@ -1,0 +1,21 @@
+{
+    "name": "About",
+    "description": "27012508",
+    "image": "https://raw.githubusercontent.com/ccily2701/tools/master/nft.jpeg",
+    "external_url":"https://twitter.com/shuaife17807721",
+    "attributes": [
+        {
+            "trait_type": "age",
+            "value": "18"
+        },
+        {
+            "trait_type": "like",
+            "value": "code"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "生日",
+            "value": 1546360800
+        }
+    ]
+}
