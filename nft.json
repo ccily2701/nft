@@ -13,6 +13,10 @@
             "value": "code"
         },
         {
+            "trait_type": "height",
+            "value": "70kg"
+        },
+        {
             "display_type": "date",
             "trait_type": "生日",
             "value": 1546360800
